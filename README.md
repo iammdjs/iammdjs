@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Md Juel Sekh(Github user name - @iammdjs)
+## 👋 Hi, I’m Md Juel Sekh(Github user name - iammdjs)
 ## 👀 I’m interested in Android Development, DSA, Node.js
 ## 🌱 I’m currently learning Node.js, Android Development.
 ## 💞️ I’m looking to collaborate on Node.js, Android Development Project.
