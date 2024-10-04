@@ -16,6 +16,7 @@ I'm a passionate Software Development Engineer with a strong foundation in **C#,
 I’m actively looking to collaborate on:
 - **.NET Core Projects**
 - **Azure Cloud Implementations**
+
 If you have an exciting project in mind or need a passionate developer, let’s connect!
 
 ### 📫 Get in Touch
